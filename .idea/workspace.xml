@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5eb01ff-2ee3-4a9b-b61c-792b8646d490" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AppRelaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CreaBBDD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/consultas/Consulta1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/consultas/Consulta2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/consultas/Consulta3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/consultas/Consulta4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/consultas/Consulta5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/consultas/Consulta6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/Desarrollador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/Herramienta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/Juego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/JuegoIndi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entidades/JuegoTripeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="e5eb01ff-2ee3-4a9b-b61c-792b8646d490" name="Changes" comment="entrega UT3 con consultas">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/consultas/Consulta7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,20 +57,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Consulta6">
-    <configuration name="Consulta2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.consultas.Consulta2" />
-      <module name="entregaUT3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.consultas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Consulta7">
     <configuration name="Consulta3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.consultas.Consulta3" />
       <module name="entregaUT3" />
@@ -146,13 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Consulta7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.consultas.Consulta7" />
+      <module name="entregaUT3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.consultas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Consulta7" />
         <item itemvalue="Application.Consulta6" />
         <item itemvalue="Application.Consulta5" />
         <item itemvalue="Application.Consulta4" />
         <item itemvalue="Application.Consulta3" />
-        <item itemvalue="Application.Consulta2" />
       </list>
     </recent_temporary>
   </component>
@@ -174,8 +151,23 @@
       <workItem from="1670248171851" duration="348000" />
       <workItem from="1670401195227" duration="10056000" />
       <workItem from="1671099029653" duration="3271000" />
-      <workItem from="1671177101259" duration="728000" />
+      <workItem from="1671177101259" duration="2876000" />
     </task>
+    <task id="LOCAL-00001" summary="entrega UT3 con consultas">
+      <created>1671177903491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671177903491</updated>
+    </task>
+    <task id="LOCAL-00002" summary="entrega UT3 con consultas">
+      <created>1671178018447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671178018447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,5 +183,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="entrega UT3 con consultas" />
+    <option name="LAST_COMMIT_MESSAGE" value="entrega UT3 con consultas" />
   </component>
 </project>
